@@ -1,0 +1,57 @@
+@font-face {
+	font-family: 'Lobster';
+	src: url('../fonts/Lobster_1.3.ttf');
+}
+
+@font-face {
+	font-family: 'DIN-Light';
+	src: url('../fonts/DIN-Light.ttf');
+}
+
+@font-face {
+	font-family: 'DIN-Bold';
+	src: url('../fonts/DIN-Bold.ttf');
+}
+
+.parte1 {
+	font-family: 'Lobster';
+}
+
+.col-xs-11 {
+	font-family: 'DIN-Light';
+}
+
+.col-xs-11 h1, h2, h3, h4 {
+	font-family: 'DIN-Bold';
+}
+
+#introduction {
+	color: #fff9a3;
+	/*margin-top: 5vh;*/
+	font-size:100px;
+	/*margin-left: 50px;*/
+	text-align: center;
+}
+
+#imagen {
+	margin-top: 5vh;
+	text-align: center;
+}
+
+#resumen {
+	margin-top: 5vh;
+	margin-left: 100px;
+}
+
+#sketch {
+	text-align: center;	
+}
+
+.footer {
+	background-color: black;
+	color: white;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
